@@ -1,0 +1,9 @@
+C:\Users\FACCAT\Marcenaria\obj\Debug\net5.0\Marcenaria.csproj.AssemblyReference.cache
+C:\Users\FACCAT\Marcenaria\obj\Debug\net5.0\Marcenaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FACCAT\Marcenaria\obj\Debug\net5.0\Marcenaria.AssemblyInfoInputs.cache
+C:\Users\FACCAT\Marcenaria\obj\Debug\net5.0\Marcenaria.AssemblyInfo.cs
+C:\Users\FACCAT\Marcenaria\obj\Debug\net5.0\Marcenaria.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Downloads\Marcenaria\Marcenaria\obj\Debug\net5.0\Marcenaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\Downloads\Marcenaria\Marcenaria\obj\Debug\net5.0\Marcenaria.AssemblyInfoInputs.cache
+C:\Users\Usuário\Downloads\Marcenaria\Marcenaria\obj\Debug\net5.0\Marcenaria.AssemblyInfo.cs
+C:\Users\Usuário\Downloads\Marcenaria\Marcenaria\obj\Debug\net5.0\Marcenaria.csproj.CoreCompileInputs.cache
